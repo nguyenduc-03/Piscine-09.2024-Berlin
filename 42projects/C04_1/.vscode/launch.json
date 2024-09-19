@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/ducnguye/42projects/C04_1/repos_2/intra-uuid-7bbd43e4-1af8-4cf3-89b5-ce62adc7e114-6016837-ducnguye/ex02",
+      "program": "/home/ducnguye/42projects/C04_1/repos_2/intra-uuid-7bbd43e4-1af8-4cf3-89b5-ce62adc7e114-6016837-ducnguye/ex02/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

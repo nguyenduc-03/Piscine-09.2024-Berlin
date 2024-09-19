@@ -1,0 +1,30 @@
+		Take number as argument and convert to letter value
+
+Take up 2 arguments :
+	1 = it is the value need to convert
+	2 = first is new reference dict and second is value need to convert
+
+
+Error\n :
+	when the argument is a negative number
+
+Notice :
+	Will complied with make ( need Makefile)
+	take value up to unsigned long
+	executable name : rush-02
+	Program will use word in the given dict ( this can be modified but 
+the inital keys cant be removed). Program will prefer the given dict than the
+later add. The order doesnt play a role. Oke for empty lines. 
+Print "Dict Error\n" if error from dict or it doesnt found a answer.
+
+	Carefull with malloc, dont forget to free
+	
+	
+Function needed :
+	ft_atoi
+	Makefile to run ( include clean also)
+	ft_check_dict 
+	ft_split_int ( make number to smaller part to be found in dict, return
+array of string from biggest to smallest, malloc)
+	ft_print_result(take array of string and search in dict and print it)
+	ft_how_long_dict()

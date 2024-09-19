@@ -1,0 +1,12 @@
+check first letter of the string 
+	if it not a seperat 
+		{ we enter a word  count +1 if in_word = 0 and then in_word = 1 ,
+		 put that letter in array[i]}, move to next letter }
+check the next letter
+	if it is a seperater
+		{ we get out of a word ( in_word =0), and the i ++, move to next index for array}
+	else 
+		{ put that in array[i]}
+	move to next
+until the string reach '\0'
+add 0 on the the string last index;

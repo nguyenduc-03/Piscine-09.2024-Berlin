@@ -1,0 +1,50 @@
+0: zero
+1: one
+2: two
+3: three
+4: four
+5: five
+6: six
+7: seven
+8: eight
+9: nine
+10: ten
+11: eleven
+12: twelve
+13: thirteen
+14: fourteen
+15: fifteen
+16: sixteen
+17: seventeen
+18: eighteen
+19: nineteen
+20:twenty
+30: thirty
+40: forty
+50: fifty
+60: sixty
+70: seventy
+80: eighty
+90:  ninety
+100: hundred
+1000: thousand
+1000000: million 7
+1,000,000,000: billion 10
+1000000000000: trillion 13
+1000000000000000: quadrillion 16
+1000000000000000000: quintillion 19
+1000000000000000000000: sextillion 22
+1000000000000000000000000: septillion 25
+1000000000000000000000000000: octillion 28
+1000000000000000000000000000000: nonillion 
+1000000000000000000000000000000000: decillion
+1000000000000000000000000000000000000: undecillion
+123    :      Hello WOrlds!!
+ft_strlen()
+ft_argc_to_ ) split to 3 bytes array
+% 100 store swhere
+ft_to_write
+
+1. check how long ( know which division we are) . check if it valid
+2. check(compare) it in dict to get the text , print it in array
+3. do it until '\0' of the argv
